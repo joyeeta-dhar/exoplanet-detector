@@ -5,4 +5,4 @@ plotly
 scipy
 xgboost
 scikit-learn
-fpdf
+fpdf2

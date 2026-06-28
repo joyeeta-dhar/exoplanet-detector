@@ -1,5 +1,5 @@
-streamlit==1.32.0
-numpy
+streamlit
+numpy<2.0.0
 pandas
 plotly
 scipy
